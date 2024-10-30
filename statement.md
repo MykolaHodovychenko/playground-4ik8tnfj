@@ -7,3 +7,9 @@ fun main(args: Array<String>) {
     println("Hello, World!")
 }
 ```
+
+## Мова Kotlin приклад
+
+```kotlin runnable
+class Kotlin
+```
